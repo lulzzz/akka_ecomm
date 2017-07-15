@@ -7,6 +7,7 @@ using AkkaEcomm.BasketActor.Models;
 using AkkaEcomm.ProductActor.Events;
 using AkkaEcomm.ProductActor.Messages;
 using AkkaEcomm.ProductActor.Models;
+using OutOfStock = AkkaEcomm.ProductActor.Events.OutOfStock;
 using ProductNotFound = AkkaEcomm.BasketActor.Events.ProductNotFound;
 
 namespace AkkaEcomm.BasketActor
@@ -48,9 +49,9 @@ namespace AkkaEcomm.BasketActor
             {
                 return new ProductNotFound();
             }
-            else if (productActorResult is InsuffientStock)
+            else if (productActorResult is OutOfStock)
             {
-                return new OutOfStock();
+                return new Events.OutOfStock();
             }
             else
             {

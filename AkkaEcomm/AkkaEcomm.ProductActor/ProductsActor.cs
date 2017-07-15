@@ -32,7 +32,7 @@ namespace AkkaEcomm.ProductActor
             }
             else
             {
-                return new InsuffientStock();
+                return new OutOfStock();
             }
         }
     }

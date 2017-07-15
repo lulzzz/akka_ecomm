@@ -52,7 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Events\InsuffientStock.cs" />
+    <Compile Include="Events\OutOfStock.cs" />
     <Compile Include="Events\StockUpdated.cs" />
     <Compile Include="Events\ProductNotFound.cs" />
     <Compile Include="Events\ProductFound.cs" />

@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace AkkaEcomm.ProductActor.Events
 {
-    public class InsuffientStock : ProductEventBase { }
+    public class OutOfStock : ProductEventBase { }
 }

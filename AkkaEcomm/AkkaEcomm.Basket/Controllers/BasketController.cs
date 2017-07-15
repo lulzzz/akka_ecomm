@@ -38,7 +38,7 @@ namespace AkkaEcomm.Basket.Controllers
                 if (result is ItemAdded)
                 {
                     var e = result as ItemAdded;
-                    return Created($"/api/baskets/{request.CustomerId}/", e.BasketItemId);
+                    return Ok(e.BasketItemId);
                 }
                 else if (result is ProductNotFound)
                 {
