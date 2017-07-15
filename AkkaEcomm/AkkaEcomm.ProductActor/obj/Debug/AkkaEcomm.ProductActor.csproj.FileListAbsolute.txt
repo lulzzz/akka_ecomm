@@ -1,0 +1,13 @@
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\AkkaEcomm.ProductActor.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\AkkaEcomm.ProductActor.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\Akka.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\Akka.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\obj\Debug\AkkaEcomm.ProductActor.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\obj\Debug\AkkaEcomm.ProductActor.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\bin\Debug\AkkaEcomm.ProductActor.dll.config
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\obj\Debug\AkkaEcomm.ProductActor.Properties.Resources.resources
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.ProductActor\obj\Debug\AkkaEcomm.ProductActor.csproj.GenerateResource.Cache

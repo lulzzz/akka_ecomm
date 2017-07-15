@@ -1,0 +1,16 @@
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.BasketActor.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.BasketActor.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\Akka.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.Common.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.ProductActor.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.Common.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.ProductActor.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\Akka.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\System.Collections.Immutable.xml
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\obj\Debug\AkkaEcomm.BasketActor.csprojResolveAssemblyReference.cache
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\obj\Debug\AkkaEcomm.BasketActor.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\obj\Debug\AkkaEcomm.BasketActor.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.BasketActor\bin\Debug\AkkaEcomm.BasketActor.dll.config

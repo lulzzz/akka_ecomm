@@ -1,0 +1,6 @@
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\bin\Debug\AkkaEcomm.Common.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\bin\Debug\AkkaEcomm.Common.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\obj\Debug\AkkaEcomm.Common.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\obj\Debug\AkkaEcomm.Common.pdb
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\bin\Debug\System.Collections.Immutable.dll
+C:\Users\cem\Documents\GitHub\akka_ecomm\AkkaEcomm\AkkaEcomm.Common\bin\Debug\System.Collections.Immutable.xml
